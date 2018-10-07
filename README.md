@@ -1,0 +1,2 @@
+# AutoMonitorSystemSendWechatGroup
+Python 制作自动运行脚本，自动截取网页截图并发送到微信群组中
